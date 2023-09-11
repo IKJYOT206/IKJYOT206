@@ -5,9 +5,9 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ikjyotsingh8239)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikjyot-singh-385849177/) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Ikjyotsingh) 
+[![Medium](https://img.shields.io/badge/Medium-%AE445A?logo=medium&logoColor=white)](https://medium.com/@Ikjyotsingh) 
 [![Twitter](https://img.shields.io/badge/Twitter-12100E?logo=Twitter&logoColor=white)](https://twitter.com/Ikjyot4) 
-[![Dribbble](https://img.shields.io/badge/Dribbble-%AE445A?logo=Dribbble&logoColor=white)](https://dribbble.com/luffy01) 
+[![Dribbble](https://img.shields.io/badge/Dribbble-AE445A?logo=Dribbble&logoColor=white)](https://dribbble.com/luffy01) 
 [![Figma](https://img.shields.io/badge/Figma-%6625f49?logo=Figma&logoColor=white)](https://www.figma.com/files/user/1119957654947483727?fuid=1119957654947483727)
 
 # 💻 Tech Stack:
